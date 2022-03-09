@@ -10,8 +10,15 @@
 
 ## Práctica: 
 
-### Unidad 1 
-
+### Unidad 1  
+<ul>
+  <li>Configuración del espacio de trabajo.</li> 
+  <li>Práctica con el objeto global console, que permite mostrar información en la terminal junto con el método .log.</li>
+  <li>alert() para mostrar un mensaje en la pantalla del usuario.</li> 
+  <li>Trabajo con código Js de manera interna y externa al archivo HTML.</li> 
+  <li>Creación del repositorio y carga de la práctica en github.</li>
+</ul>
+     
 ### Unidad 2 
 
 ### Unidad 3
