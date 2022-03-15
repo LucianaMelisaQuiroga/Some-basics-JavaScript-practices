@@ -1,4 +1,4 @@
-## <a href="https://www.programardesdecero.com.ar/" target=_blanck>Bootcamp Javascript</a>
+## <a href="https://www.programardesdecero.com.ar/" target=_blanck>Mini Bootcamp Javascript</a>
 
 <ul>
   <li>Programar con JavaScript.</li>
@@ -15,7 +15,7 @@
   <li>Configuración del espacio de trabajo.</li> 
   <li>Práctica con el objeto global console, que permite mostrar información en la terminal junto con el método .log.</li>
   <li>alert() para mostrar un mensaje en la pantalla del usuario.</li> 
-  <li>Trabajo con código Js de manera interna y externa al archivo HTML.</li> 
+  <li>Trabajo con código Js de manera embebida y externa al archivo HTML.</li> 
   <li>Creación del repositorio y carga de la práctica en github.</li>
 </ul>
      
@@ -29,6 +29,16 @@
 </ul>
 
 ### Unidad 3
+<ul>
+  <li>Tipos de operadores en Javascript:</li>
+  <ul>
+    <li>aritméticos.</li>
+    <li>relacionales.</li>
+    <li>lógicos.</li>
+  </ul>
+  <li>Trabajo con código Js de manera externa al archivo HTML.</li>
+  <li>Carga de la práctica en repositorio de github.</li>
+</ul>
 
 ### Unidad 4
 
