@@ -1,4 +1,4 @@
-## <a href="https://www.programardesdecero.com.ar/" target=_blanck>Mini Bootcamp Javascript</a>
+## <a href="https://www.programardesdecero.com.ar/" target=_blanck>Mini-Bootcamp Javascript</a>
 
 <ul>
   <li>Programar con JavaScript.</li>
@@ -22,8 +22,8 @@
 ### Unidad 2 
 <ul>
   <li>Tipos de datos en Javascript.</li>
-  <li>Declaración y asignación de valores a Variables y Constantes en Javascript.</li>
-  <li>Reasignación de valores de Variables en Javascript.</li>
+  <li>Declaración y asignación de valores a Variables var y let, y CONSTANTES en Javascript.</li>
+  <li>Reasignación de valores de Variables var en Javascript.</li>
   <li>Trabajo con código Js de manera externa al archivo HTML.</li>
   <li>Carga de la práctica en repositorio de github.</li> 
 </ul>
@@ -36,6 +36,7 @@
     <li>relacionales.</li>
     <li>lógicos.</li>
   </ul>
+  <li>prompt(), parseInt(), parseFloat() para input de usuario, y alert() para mostrar mensaje por pantalla al usuario.</li>
   <li>Trabajo con código Js de manera externa al archivo HTML.</li>
   <li>Carga de la práctica en repositorio de github.</li>
 </ul>
