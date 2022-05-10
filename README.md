@@ -42,6 +42,17 @@
 </ul>
 
 ### Unidad 4
+<ul>
+  <li>Estructuras de control de flujo en Javascript.</li>
+  <ul>
+    <li>if</li>
+    <li>if - else</li>
+    <li>if - else if - else</li>
+    <li>switch</li>
+  </ul>
+  <li>Trabajo con código Js de manera externa al archivo HTML.</li>
+  <li>Carga de la práctica en repositorio de github.</li> 
+</ul>
 
 ### Unidad 5
 
