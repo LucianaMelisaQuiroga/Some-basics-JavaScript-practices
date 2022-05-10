@@ -43,7 +43,7 @@
 
 ### Unidad 4
 <ul>
-  <li>Estructuras de control de flujo en Javascript.</li>
+  <li>Estructuras de control de flujo condicionales en Javascript.</li>
   <ul>
     <li>if</li>
     <li>if - else</li>
