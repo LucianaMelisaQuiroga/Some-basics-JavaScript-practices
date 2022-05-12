@@ -1,4 +1,4 @@
-## <a href="https://www.programardesdecero.com.ar/" target=_blanck>Mini-Bootcamp Javascript</a>
+## <a href="https://www.programardesdecero.com.ar/">Mini-Bootcamp Javascript</a>
 
 <ul>
   <li>Programar con JavaScript.</li>
@@ -36,7 +36,7 @@
     <li>relacionales.</li>
     <li>lógicos.</li>
   </ul>
-  <li>prompt(), parseInt(), parseFloat() para input de usuario, y alert() para mostrar mensaje por pantalla al usuario.</li>
+  <li>prompt(), parseInt(), parseFloat(), Number() para input de usuario, alert() y document.write() para mostrar mensaje por pantalla al usuario.</li>
   <li>Trabajo con código Js de manera externa al archivo HTML.</li>
   <li>Carga de la práctica en repositorio de github.</li>
 </ul>
